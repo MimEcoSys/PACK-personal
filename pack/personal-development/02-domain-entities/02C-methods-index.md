@@ -59,6 +59,7 @@ Methods that build self-awareness and feedback loops.
 | [PD.METHOD.012](../03-methods/PD.METHOD.012-day-rhythm.md) | Day Rhythm (OWC Fractal) | [WP.014](../04-work-products/PD.WP.014-daily-routine.md) | active | current |
 | [PD.METHOD.016](../03-methods/PD.METHOD.016-self-diagnostics.md) | Self-Diagnostics | [WP.017](../04-work-products/PD.WP.017-learner-diagnostic-map.md) | active | current |
 | [PD.METHOD.061](../03-methods/PD.METHOD.061-session-three-results-test.md) | Session Three-Results Test (Project / Person / Environment) | [WP.014](../04-work-products/PD.WP.014-daily-routine.md) | draft | hypothesis |
+| [PD.METHOD.069](../03-methods/PD.METHOD.069-style-change.md) | Style Change (Изменение стиля, каталог LMS.M.043) | [WP.002](../04-work-products/PD.WP.002-learner-works.md) | draft | hypothesis |
 
 ### Infrastructure Methods
 
@@ -121,6 +122,7 @@ Methods of thinking mastery for the Intellectual role. Applied in the Worker Dev
 | [PD.METHOD.015](../03-methods/PD.METHOD.015-first-development-slot.md) | First Development Slot | Learning | [WP.010](../04-work-products/PD.WP.010-fleeting-notes.md) + применённый след живого проекта | hypothesis |
 | [PD.METHOD.016](../03-methods/PD.METHOD.016-self-diagnostics.md) | Self-Diagnostics | Reflective | [WP.017](../04-work-products/PD.WP.017-learner-diagnostic-map.md) | current |
 | [PD.METHOD.061](../03-methods/PD.METHOD.061-session-three-results-test.md) | Session Three-Results Test | Reflective | [WP.014](../04-work-products/PD.WP.014-daily-routine.md) | hypothesis |
+| [PD.METHOD.069](../03-methods/PD.METHOD.069-style-change.md) | Style Change | Reflective | [WP.002](../04-work-products/PD.WP.002-learner-works.md) | hypothesis |
 
 ---
 

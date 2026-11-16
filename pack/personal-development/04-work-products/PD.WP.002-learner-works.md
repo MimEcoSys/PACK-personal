@@ -21,7 +21,7 @@ aliases:
   - артефакты ученика
   - результаты работы ученика
 related:
-  produced_by: [PD.METHOD.002]
+  produced_by: [PD.METHOD.002, PD.METHOD.069]
 ---
 
 # Work Products: Работы ученика (Learner Works)

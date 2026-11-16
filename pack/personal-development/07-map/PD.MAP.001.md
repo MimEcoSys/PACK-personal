@@ -1,15 +1,16 @@
 ---
 id: PD.MAP.001
 name: Pack Navigation Map
+summary: Auto-generated navigation map of all pack entities
 scope: full-pack
 created: 2026-11-04
-last_updated: 2026-11-04
+last_updated: 2026-11-16
 generated: true
 ---
 
 # [PD.MAP.001] Pack Navigation Map
 
-> Auto-generated from frontmatter on 2026-11-04. Do not edit manually.
+> Auto-generated from frontmatter on 2026-11-16. Do not edit manually.
 
 ---
 
@@ -24,7 +25,7 @@ generated: true
 | FORM (FORM) | 140 |
 | Methods (M) | 2 |
 | Maps (MAP) | 2 |
-| METHOD (METHOD) | 65 |
+| METHOD (METHOD) | 67 |
 | NAMING (NAMING) | 1 |
 | PRINC (PRINC) | 15 |
 | QUAL (QUAL) | 1 |
@@ -33,7 +34,7 @@ generated: true
 | SPEC (SPEC) | 2 |
 | STATE (STATE) | 8 |
 | Work Products (WP) | 28 |
-| **Total** | **377** |
+| **Total** | **379** |
 
 ## Methods
 
@@ -96,7 +97,7 @@ generated: true
 
 | ID | Name | Summary | Status |
 |----|------|---------|--------|
-| PD.MAP.001 | Pack Navigation Map | — | — |
+| PD.MAP.001 | Pack Navigation Map | Auto-generated navigation map of all pack entities | — |
 | PD.MAP.002 | Personal Development Pattern Map | Восемь стержневых паттернов ЛР (проблема/силы → принцип → методы/анти-паттерны пака → FPF-первоисточник → сигнал), собраны по итогам пир-сессии 08.09; ссылки на FPF с зафиксированным коммитом | active |
 
 ## Domain-Specific Entities
@@ -288,7 +289,7 @@ generated: true
 | PD.FORM.087 | Creator Role Trajectory | Ролевая траектория созидателя: нелинейная пирамида из 5 ролей (Ученик→Интеллектуал→Профессионал→Исследователь→Просветитель) — модель смещения фокуса инвестиций по мере развития | active |
 | PD.FORM.088 | Human Potential | Потенциал человека: расширяемый потолок шкалы характеристики. Четырёхуровневая модель характеристика → показатель (шкала) → значение → потенциал. Созидатель = Человек (Организм + Личность) + IWE (Репозитории + Среда + Агенты). ЛР работает на 4 узла: Мыслительное мастерство, Мастерство саморазвития, Мастерство управления IWE, Мастерство создания IWE | active |
 | PD.FORM.089 | Learner Rcs | Role Characterisation Space (RCS) Ученика: болид-онтология (Пилот+Машина), 4 узла ЛР (Мыслительное/Саморазвитие/Управление IWE/Создание IWE), 7 bh-характеристик Аттестатора (bh.sys/inv/met/awr/agn/scl/stb) + 13 cp-срезов Диагноста (cp.rhy/wld/skl/iwe/cre/knw/env/int/auto/exo/agt/cult/traj). Ступени 1-4: по решению 31.10 присваиваются двумя независимыми путями (по активности и по диагностике), берётся большее (§5.1; в код не влито, на Цехе не включено). В боевом расчёте с 15.10.2026 действует формула §13.3. Ступень 5 — продвинутое завершение ЛР и готовность к РР — дополнительно требует метрического профиля Проактивного и подтверждённого реального изменения по FORM.093. Две оси мастерства IWE — cp.iwe и cp.cre — рекомендательные, не блокируют ступень. Формализм: FPF A.19 U.CharacteristicSpace. §13 (v6.0, implementation_status: partial): объединённый каталог 9 характеристик (bh/cp + 4 из FORM.093), правило ступени «согласованный профиль»; формула в боевом расчёте с 15.10.2026, v5 остаётся для аккаунтов без записи в журнале ступеней (§13.6). | draft |
-| PD.FORM.090 | Creator Scope Levels | Шесть уровней деятельностного охвата созидателя: Я → ближний круг → дальний круг → сообщество → общество → человечество и поколения. Специализация системных уровней (PD.FORM.027) для ситуаций, где созидатель действует, и связка с ролевой траекторией (PD.FORM.087). Структурный каркас (количество уровней, размеры по Dunbar, системная вложенность по Bronfenbrenner) опирается на эмпирические основания и не зависит от одной биографии. Применимость связки «уровень → инвариантный документ Lifework» — выведена из пакета автора и требует внешней валидации (PD.METHOD.018) | active |
+| PD.FORM.090 | Creator Scope Levels | Шесть уровней деятельностного охвата созидателя и промежуточный уровень 1А: Я → железный человек (1А, я и моя ИИ-среда) → ближний круг → дальний круг → сообщество → общество → человечество и поколения. Специализация системных уровней (PD.FORM.027) для ситуаций, где созидатель действует, и связка с ролевой траекторией (PD.FORM.087). Структурный каркас (количество уровней, размеры по Dunbar, системная вложенность по Bronfenbrenner) опирается на эмпирические основания и не зависит от одной биографии. Применимость связки «уровень → инвариантный документ Lifework» — выведена из пакета автора и требует внешней валидации (PD.METHOD.018) | active |
 | PD.FORM.091 | Creator Growth Map | Карта роста созидателя — концептуальная карта (матрица 3×2 + база + горизонт), интегрирующая 7 существующих формализаций Pack для описания того, как растёт созидатель. Содержательное ядро — матрица 3×2 (план содержания × категория), пересекающая три плана содержания (ширина по трансдисциплинам / структура домена / системные уровни) с двумя категориями из базового различения мировоззрение vs мастерство (PD.FORM.001 §5.1). Контекст применения — два дополнительных слоя (база и горизонт), не помещающиеся в матрицу | active |
 | PD.FORM.092 | Lr As Mass Program | ЛР как массовая программа: триада методология+платформа+адаптивная персонализация делает индивидуальный путь роста интеллекта масштабируемым — без наставника 1-к-1, с обещанием мировоззренческого сдвига по дуге PD.FORM.087. Содержит 8 открытых гипотез с revision criteria и 6 антипаттернов применения | draft |
 | PD.FORM.093 | Graduate Characteristics Catalog | Каталог 8 характеристик профиля Проактивного ученика: 5 обязательных и 3 supporting. FORM.093 задаёт две проверки полного gate ступени 5 — метрический профиль и свежее реальное изменение охвата ≥2; третью часть, двойной RCS-gate bh+cp, задаёт FORM.089. Ступень 5 может быть продвинутым завершением ЛР и даёт готовность к РР, но не означает фактический старт. | draft |
@@ -412,6 +413,8 @@ generated: true
 | PD.METHOD.063 | Сквозной пример для связи различений в материале | Проектный приём построения связного материала: один рабочий пример удерживает отношения между различениями. В исходном обсуждении предложено управлять содержательной сложностью без простого увеличения длины. Это гипотеза дизайна одной встречи, не измеренное универсальное превосходство плотности терминов над объёмом текста. | draft |
 | PD.METHOD.064 | Проверяемая связь метода с конкретным поддерживающим механизмом | Проверяемая связь метода с конкретным поддерживающим механизмом | draft |
 | PD.METHOD.065 | Разрешение на любой результат до практики, усиление и защита | До начала практики ведущий говорит «любой результат — ок» как приём против перфекционизма: разрешает начать и предъявить фактически полученный результат, в том числе нулевой или неполный. | active |
+| PD.METHOD.066 | Четвёрка модальностей действия (хочется/можно/нужно/привыкли) — предметное знание для Навигатора | — | draft |
+| PD.METHOD.069 | Изменение стиля | Замена одного своего метода другим по конкретному повторяющемуся триггеру, с обратной связью, правкой и проверкой удержания, вместо волевой решимости | draft |
 
 ### NAMING
 
@@ -495,157 +498,157 @@ generated: true
 - Missing `summary`: PD.METHOD.059 (PD.METHOD.059-skill-pipeline-four-nodes.md)
 - Missing `summary`: PD.METHOD.060 (PD.METHOD.060-pre-registration-hypotheses-metrics-before-data-query.md)
 - Missing `summary`: PD.METHOD.062 (PD.METHOD.062-three-level-minimal-method-set-by-trigger-type.md)
+- Missing `summary`: PD.METHOD.066 (PD.METHOD.066-what-needed-vs-possible-quartet.md)
 - Missing `summary`: PD.SOTA.008 (PD.SOTA.008-predictive-processing-attention.md)
 - Missing `summary`: PD.SOTA.011 (PD.SOTA.011-deliberate-practice-replication-failure-2019.md)
 - Missing `summary`: PD.SOTA.012 (PD.SOTA.012-environment-cued-reminders-prospective-memory-2023.md)
-- Missing `summary`: PD.MAP.001 (PD.MAP.001.md)
 
 ## Staleness Warnings (>90 days since update)
 
 | ID | Days Since Update |
 |----|-------------------|
-| PD.WP.001 | 638 |
-| PD.FAIL.001 | 638 |
-| PD.FAIL.002 | 638 |
-| PD.FAIL.003 | 638 |
-| PD.FAIL.004 | 638 |
-| PD.FAIL.005 | 638 |
-| PD.FAIL.006 | 638 |
-| PD.FAIL.007 | 267 |
-| PD.WP.003 | 266 |
-| PD.WP.004 | 266 |
-| PD.WP.007 | 266 |
-| PD.WP.008 | 258 |
-| PD.WP.009 | 258 |
-| PD.WP.011 | 258 |
-| PD.WP.012 | 258 |
-| PD.WP.013 | 258 |
-| PD.WP.014 | 258 |
-| PD.WP.015 | 258 |
-| PD.WP.016 | 258 |
-| PD.FAIL.008 | 258 |
-| PD.FAIL.009 | 258 |
-| PD.FAIL.010 | 258 |
-| PD.FAIL.011 | 258 |
-| PD.FAIL.012 | 258 |
-| PD.FAIL.013 | 258 |
-| PD.FAIL.014 | 258 |
-| PD.FAIL.015 | 258 |
-| PD.FAIL.016 | 258 |
-| PD.FAIL.017 | 258 |
-| PD.FAIL.018 | 258 |
-| PD.FAIL.019 | 258 |
-| PD.FAIL.020 | 258 |
-| PD.FAIL.021 | 258 |
-| PD.FAIL.022 | 258 |
-| PD.FAIL.023 | 258 |
-| PD.FAIL.024 | 258 |
-| PD.FAIL.025 | 258 |
-| PD.FAIL.026 | 258 |
-| PD.FAIL.027 | 258 |
-| PD.FAIL.028 | 258 |
-| PD.FAIL.029 | 258 |
-| PD.FAIL.030 | 258 |
-| PD.FAIL.031 | 258 |
-| PD.FAIL.032 | 258 |
-| PD.FAIL.033 | 258 |
-| PD.FAIL.034 | 258 |
-| PD.FAIL.035 | 258 |
-| PD.FAIL.036 | 258 |
-| PD.FORM.042 | 257 |
-| PD.FAIL.044 | 257 |
-| PD.FORM.005 | 248 |
-| PD.FAIL.045 | 240 |
-| PD.FAIL.046 | 240 |
-| PD.WP.017 | 238 |
-| PD.WP.018 | 238 |
-| PD.FAIL.048 | 238 |
-| PD.FAIL.050 | 238 |
-| PD.FAIL.052 | 238 |
-| PD.FAIL.053 | 238 |
-| PD.FAIL.054 | 238 |
-| PD.FAIL.055 | 238 |
-| PD.FAIL.057 | 238 |
-| PD.FAIL.058 | 238 |
-| PD.FAIL.060 | 238 |
-| PD.FAIL.061 | 238 |
-| PD.FAIL.062 | 238 |
-| PD.FAIL.063 | 238 |
-| PD.FAIL.064 | 238 |
-| PD.FAIL.065 | 228 |
-| PD.FAIL.066 | 228 |
-| PD.WP.006 | 217 |
-| PD.SOTA.002 | 217 |
-| PD.SOTA.007 | 217 |
-| PD.SOTA.004 | 202 |
-| PD.WP.005 | 198 |
-| PD.SOTA.005 | 193 |
-| PD.FAIL.067 | 184 |
-| PD.FAIL.068 | 184 |
-| PD.FAIL.069 | 184 |
-| PD.FAIL.070 | 171 |
-| PD.FAIL.072 | 170 |
-| PD.FAIL.073 | 168 |
-| PD.FAIL.074 | 168 |
-| PD.FAIL.075 | 168 |
-| PD.FAIL.076 | 168 |
-| PD.FAIL.077 | 167 |
-| PD.FAIL.080 | 124 |
-| PD.FAIL.079 | 121 |
-| PD.WP.020 | 116 |
-| PD.SOTA.009 | 115 |
-| PD.SOTA.010 | 115 |
-| PD.M.067 | 113 |
-| PD.WP.010 | 108 |
-| PD.METHOD.001 | 105 |
-| PD.METHOD.002 | 104 |
-| PD.METHOD.003 | 104 |
-| PD.METHOD.004 | 104 |
-| PD.METHOD.005 | 104 |
-| PD.METHOD.006 | 104 |
-| PD.METHOD.007 | 104 |
-| PD.METHOD.009 | 104 |
-| PD.METHOD.011 | 104 |
-| PD.METHOD.012 | 104 |
-| PD.METHOD.013 | 104 |
-| PD.METHOD.014 | 104 |
-| PD.METHOD.016 | 104 |
-| PD.METHOD.017 | 104 |
-| PD.METHOD.020 | 104 |
-| PD.METHOD.021 | 104 |
-| PD.METHOD.023 | 104 |
-| PD.METHOD.024 | 104 |
-| PD.METHOD.026 | 104 |
-| PD.METHOD.027 | 104 |
-| PD.METHOD.028 | 104 |
-| PD.METHOD.029 | 104 |
-| PD.METHOD.033 | 104 |
-| PD.METHOD.034 | 104 |
-| PD.METHOD.035 | 104 |
-| PD.METHOD.036 | 104 |
-| PD.METHOD.037 | 104 |
-| PD.METHOD.038 | 104 |
-| PD.METHOD.039 | 104 |
-| PD.METHOD.042 | 104 |
-| PD.METHOD.043 | 104 |
-| PD.METHOD.044 | 104 |
-| PD.METHOD.045 | 104 |
-| PD.METHOD.046 | 104 |
-| PD.METHOD.047 | 104 |
-| PD.METHOD.048 | 104 |
-| PD.METHOD.049 | 104 |
-| PD.METHOD.050 | 104 |
-| PD.METHOD.051 | 104 |
-| PD.METHOD.052 | 104 |
-| PD.METHOD.053 | 104 |
-| PD.METHOD.054 | 104 |
-| PD.METHOD.055 | 104 |
-| PD.METHOD.056 | 104 |
-| PD.METHOD.057 | 104 |
-| PD.METHOD.058 | 104 |
-| PD.METHOD.059 | 104 |
-| PD.SOTA.003 | 93 |
+| PD.WP.001 | 650 |
+| PD.FAIL.001 | 650 |
+| PD.FAIL.002 | 650 |
+| PD.FAIL.003 | 650 |
+| PD.FAIL.004 | 650 |
+| PD.FAIL.005 | 650 |
+| PD.FAIL.006 | 650 |
+| PD.FAIL.007 | 279 |
+| PD.WP.003 | 278 |
+| PD.WP.004 | 278 |
+| PD.WP.007 | 278 |
+| PD.WP.008 | 270 |
+| PD.WP.009 | 270 |
+| PD.WP.011 | 270 |
+| PD.WP.012 | 270 |
+| PD.WP.013 | 270 |
+| PD.WP.014 | 270 |
+| PD.WP.015 | 270 |
+| PD.WP.016 | 270 |
+| PD.FAIL.008 | 270 |
+| PD.FAIL.009 | 270 |
+| PD.FAIL.010 | 270 |
+| PD.FAIL.011 | 270 |
+| PD.FAIL.012 | 270 |
+| PD.FAIL.013 | 270 |
+| PD.FAIL.014 | 270 |
+| PD.FAIL.015 | 270 |
+| PD.FAIL.016 | 270 |
+| PD.FAIL.017 | 270 |
+| PD.FAIL.018 | 270 |
+| PD.FAIL.019 | 270 |
+| PD.FAIL.020 | 270 |
+| PD.FAIL.021 | 270 |
+| PD.FAIL.022 | 270 |
+| PD.FAIL.023 | 270 |
+| PD.FAIL.024 | 270 |
+| PD.FAIL.025 | 270 |
+| PD.FAIL.026 | 270 |
+| PD.FAIL.027 | 270 |
+| PD.FAIL.028 | 270 |
+| PD.FAIL.029 | 270 |
+| PD.FAIL.030 | 270 |
+| PD.FAIL.031 | 270 |
+| PD.FAIL.032 | 270 |
+| PD.FAIL.033 | 270 |
+| PD.FAIL.034 | 270 |
+| PD.FAIL.035 | 270 |
+| PD.FAIL.036 | 270 |
+| PD.FORM.042 | 269 |
+| PD.FAIL.044 | 269 |
+| PD.FORM.005 | 260 |
+| PD.FAIL.045 | 252 |
+| PD.FAIL.046 | 252 |
+| PD.WP.017 | 250 |
+| PD.WP.018 | 250 |
+| PD.FAIL.048 | 250 |
+| PD.FAIL.050 | 250 |
+| PD.FAIL.052 | 250 |
+| PD.FAIL.053 | 250 |
+| PD.FAIL.054 | 250 |
+| PD.FAIL.055 | 250 |
+| PD.FAIL.057 | 250 |
+| PD.FAIL.058 | 250 |
+| PD.FAIL.060 | 250 |
+| PD.FAIL.061 | 250 |
+| PD.FAIL.062 | 250 |
+| PD.FAIL.063 | 250 |
+| PD.FAIL.064 | 250 |
+| PD.FAIL.065 | 240 |
+| PD.FAIL.066 | 240 |
+| PD.WP.006 | 229 |
+| PD.SOTA.002 | 229 |
+| PD.SOTA.007 | 229 |
+| PD.SOTA.004 | 214 |
+| PD.WP.005 | 210 |
+| PD.SOTA.005 | 205 |
+| PD.FAIL.067 | 196 |
+| PD.FAIL.068 | 196 |
+| PD.FAIL.069 | 196 |
+| PD.FAIL.070 | 183 |
+| PD.FAIL.072 | 182 |
+| PD.FAIL.073 | 180 |
+| PD.FAIL.074 | 180 |
+| PD.FAIL.075 | 180 |
+| PD.FAIL.076 | 180 |
+| PD.FAIL.077 | 179 |
+| PD.FAIL.080 | 136 |
+| PD.FAIL.079 | 133 |
+| PD.WP.020 | 128 |
+| PD.SOTA.009 | 127 |
+| PD.SOTA.010 | 127 |
+| PD.M.067 | 125 |
+| PD.WP.010 | 120 |
+| PD.METHOD.001 | 117 |
+| PD.METHOD.002 | 116 |
+| PD.METHOD.003 | 116 |
+| PD.METHOD.004 | 116 |
+| PD.METHOD.005 | 116 |
+| PD.METHOD.006 | 116 |
+| PD.METHOD.007 | 116 |
+| PD.METHOD.009 | 116 |
+| PD.METHOD.011 | 116 |
+| PD.METHOD.012 | 116 |
+| PD.METHOD.013 | 116 |
+| PD.METHOD.014 | 116 |
+| PD.METHOD.016 | 116 |
+| PD.METHOD.017 | 116 |
+| PD.METHOD.020 | 116 |
+| PD.METHOD.021 | 116 |
+| PD.METHOD.023 | 116 |
+| PD.METHOD.024 | 116 |
+| PD.METHOD.026 | 116 |
+| PD.METHOD.027 | 116 |
+| PD.METHOD.028 | 116 |
+| PD.METHOD.029 | 116 |
+| PD.METHOD.033 | 116 |
+| PD.METHOD.034 | 116 |
+| PD.METHOD.035 | 116 |
+| PD.METHOD.036 | 116 |
+| PD.METHOD.037 | 116 |
+| PD.METHOD.038 | 116 |
+| PD.METHOD.039 | 116 |
+| PD.METHOD.042 | 116 |
+| PD.METHOD.043 | 116 |
+| PD.METHOD.044 | 116 |
+| PD.METHOD.045 | 116 |
+| PD.METHOD.046 | 116 |
+| PD.METHOD.047 | 116 |
+| PD.METHOD.048 | 116 |
+| PD.METHOD.049 | 116 |
+| PD.METHOD.050 | 116 |
+| PD.METHOD.051 | 116 |
+| PD.METHOD.052 | 116 |
+| PD.METHOD.053 | 116 |
+| PD.METHOD.054 | 116 |
+| PD.METHOD.055 | 116 |
+| PD.METHOD.056 | 116 |
+| PD.METHOD.057 | 116 |
+| PD.METHOD.058 | 116 |
+| PD.METHOD.059 | 116 |
+| PD.SOTA.003 | 105 |
 
 ---
 
-*Generated by `scripts/generate-map.py` on 2026-11-04*
+*Generated by `scripts/generate-map.py` on 2026-11-16*
