@@ -1644,7 +1644,7 @@ This is a **modular** distinction (FPF A.7: by carrier — what carries the agen
 
 ## [D.054] Composure (Собранность) vs. Concentration
 
-**Definition**: **Composure** (собранность) is a broad mastery of attention management across ALL time scales — from the present moment to life trajectory — including preparation, error detection, resource management, and rhythm control. **Concentration** is a narrow aspect of composure — the ability to deeply focus on a single task while minimizing distractions.
+**Definition**: **Composure** (собранность) is a broad mastery of attention management across ALL time scales — from the present moment to life trajectory — including preparation, error detection, resource management, and rhythm control. Operationalised (17.11.2026, hypothesis) by PD.FORM.145: holding the chosen focus and returning to it in windows from a slot to a year, level 0–5 per window; state management is assessed by productive state (PD.FORM.038), weekly hours by regularity. **Concentration** is a narrow aspect of composure — the ability to deeply focus on a single task while minimizing distractions.
 
 **Distinction Test**:
 - Does this apply only to a single work session? (Yes → concentration)
@@ -3860,7 +3860,7 @@ This is a **modular** distinction (FPF A.7: by carrier — what carries the agen
 | Свойство системы как аспект внимания | Выбранная шкала и единица измерения | Конкретное число на шкале (сейчас и baseline) | Потолок шкалы — максимум возможного |
 | Скорость | км/ч | Сейчас 40; baseline 80 | 200 км/ч (у авто фикс) |
 | Скорость обучения | дней на освоение новой технологии | Сейчас 2 дня; baseline 3 дня | 1 день (у человека **расширяется**) |
-| Собранность | слотов работы в неделю | Сейчас 4; baseline 6 | N слотов/нед (растёт с развитием) |
+| Собранность | уровень 0–5 удержания выбранного фокуса в окне (PD.FORM.145) | В окне «день»: сейчас 2; baseline 3 | самое длинное окно, где фокус держится (растёт с развитием: квартал, год) |
 | Что существует (качественно) | В чём измеряем (единица) | Что есть сейчас и устойчиво (количественно) | Что возможно (границы) |
 
 **Distinction Tests (4 теста, по порядку):**
@@ -3886,9 +3886,9 @@ This is a **modular** distinction (FPF A.7: by carrier — what carries the agen
 **Why the distinction matters for the learner:**
 
 Плохие формулировки цели: «хочу быстрее учиться», «хочу быть собраннее». Правильные формулировки различают, что именно и на каком горизонте двигаем:
-- «Поднять **baseline-значение** собранности с 4 до 6 слотов/нед» → M1, 4-8 недель
+- «Поднять **baseline-значение** собранности в окне "неделя" с 2 до 3» → M1, 4-8 недель (количество слотов в неделю собранностью не оценивается — это регулярность, PD.FORM.145 §2)
 - «Расширить **потенциал** скорости обучения с 2 до 1 дня» → M4, годы
-- «Не допустить падения **baseline** ниже 4 в кризис» → M1 + M2 (защитные практики)
+- «Не допустить падения **baseline** ниже 3 в кризис» → M1 + M2 (защитные практики)
 
 **Related Items:**
 - Distinction: [D.139](#d139-system-vs-characteristic) — System vs Characteristic (предшествующее различение)
@@ -5310,7 +5310,7 @@ Gate перехода между ступенями программы разв�
 
 **Why It Matters**: Без этого теста система метрик/характеристик разрастается счётчиками, которые не добавляют информации — только переименовывают уже наблюдаемый сигнал под новым ярлыком. Каждый лишний счётчик — лишняя строка отчётности, лишний параметр калибровки порогов и ложное ощущение, что измерено больше, чем на самом деле.
 
-**Открытый нюанс** (не решается этим различением, честно оставлен как есть): разный ГОРИЗОНТ АГРЕГАЦИИ одних и тех же сигналов не обязательно подпадает под этот тест «нет своего источника → не отдельная характеристика». Пример: PD.FORM.093 §3.2 держит «Собранность» (сигналы `bh.sys`+`bh.stb`, окно — текущая неделя) и «Регулярность» (те же `bh.sys`+`bh.stb`, окно — 12 недель) как ДВЕ разные gate-характеристики, а не как одну с аспектом — разграничение там идёт через окно агрегации, а не через это правило. Это не противоречие (другой механизм разграничения, не «читает тот же сигнал без трансформации»), но граница между «другое агрегирующее окно = самостоятельная метрика» и «то же окно и тот же сигнал = не самостоятельна» этим различением не формализована.
+**Открытый нюанс** (не решается этим различением, честно оставлен как есть): разный ГОРИЗОНТ АГРЕГАЦИИ одних и тех же сигналов не обязательно подпадает под этот тест «нет своего источника → не отдельная характеристика». Пример: PD.FORM.093 §3.2 держит «Собранность» (сигналы `bh.sys`+`bh.stb`, окно — текущая неделя; состояние до 17.11.2026, целевая модель — PD.FORM.145) и «Регулярность» (те же `bh.sys`+`bh.stb`, окно — 12 недель) как ДВЕ разные gate-характеристики, а не как одну с аспектом — разграничение там идёт через окно агрегации, а не через это правило. Это не противоречие (другой механизм разграничения, не «читает тот же сигнал без трансформации»), но граница между «другое агрегирующее окно = самостоятельная метрика» и «то же окно и тот же сигнал = не самостоятельна» этим различением не формализована.
 
 **Related Items**:
 - Живой случай: WP-576, `CONCEPT-creator-characteristics-v6.md` §8-9 (MC-sessions, commit `86c5d3d7`)
