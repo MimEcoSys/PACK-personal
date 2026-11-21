@@ -2597,7 +2597,7 @@ This is a **modular** distinction (FPF A.7: by carrier — what carries the agen
 **Why It Matters**: The goal is not to solve each problem individually but to build a lifestyle with fewer future failures and faster recovery from unavoidable ones. Resilience mastery is a characteristic (develops slowly); problem solving is a skill (applied immediately).
 
 **Related Items**:
-- Characteristic: [PD.CHR.002](../02-domain-entities/characteristics/PD.CHR.002-cyber-characteristics.md) — Stress resistance (CHR.K.003)
+- Characteristic: [PD.FORM.062](../02-domain-entities/formalizations/PD.FORM.062-six-cybercharacteristics.md) — Stress resistance (CHR.K.003)
 
 **SoTA**: `current`
 - Revision criterion: Would change if resilience cannot be separated from domain-specific problem-solving ability

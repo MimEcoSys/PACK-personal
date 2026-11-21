@@ -28,6 +28,9 @@
 | PD.CHR.007 | Калибр личности | Core | formed | [PD.CHR.007](characteristics/PD.CHR.007-personality-caliber.md) |
 | PD.CHR.008 | Ресурсность | Core | formed | [PD.CHR.008](characteristics/PD.CHR.008-resourcefulness.md) |
 | PD.CHR.009 | Работоспособность | Core | formed | [PD.CHR.009](characteristics/PD.CHR.009-work-capacity.md) |
+| PD.CHR.010 | Волевость | не назначена | forming | [PD.CHR.010](characteristics/PD.CHR.010-volition.md) |
+| PD.CHR.011 | Качество мышления | не назначена | forming | [PD.CHR.011](characteristics/PD.CHR.011-thinking-quality.md) |
+| PD.CHR.012 | Осознанность границ делегирования ИИ | не назначена | forming | [PD.CHR.012](characteristics/PD.CHR.012-ai-delegation-boundary-awareness.md) |
 
 ---
 
@@ -46,7 +49,7 @@
 ## Связи
 
 - **Bounded context**: [01A-bounded-context.md](../01-domain-contract/01A-bounded-context.md)
-- **Концептуальная модель**: [PD.CHR.001](characteristics/PD.CHR.001-characteristics.md) (связь Характеристика → Показатель → Значение → Состояние)
+- **Концептуальная модель**: [PD.CHR.001](characteristics/PD.CHR.001-characteristics.md) (связь Характеристика → Показатель → Значение → Потенциал; состояние определено отдельно, PD.CHR.001 §2)
 - **Формализация приоритетных характеристик**: [PD.FORM.029](formalizations/PD.FORM.029-priority-characteristics.md)
 - **Шесть киберхарактеристик**: [PD.FORM.062](formalizations/PD.FORM.062-six-cybercharacteristics.md)
 
