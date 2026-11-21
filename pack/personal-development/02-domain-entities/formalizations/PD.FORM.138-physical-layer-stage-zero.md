@@ -7,7 +7,7 @@ valid_from: 2026-05-31
 wp: WP-377
 name_ru: "Физический слой ст. 0 (saneness) — pre-condition программы ЛР"
 name_en: "Physical Layer Stage 0 (Saneness) — Pre-condition of Personal Development Program"
-summary: "Защитное физическое pre-condition ст. 0: достаточная устойчивость организма для безопасного входа в ЛР; tri-state gate open/closed/indeterminate различает короткую просадку, устойчивый провал и неполные данные; это не ступень зрелости Ученика и не gate полного режима 10 ч/нед"
+summary: "Защитное физическое pre-condition ст. 0: достаточная устойчивость организма для безопасного входа в ЛР; tri-state gate open/closed/indeterminate различает короткую просадку, устойчивый провал и неполные данные; это не ступень Ученика и не gate полного режима 10 ч/нед"
 s2r_families: [F5]
 trust:
   F: 3

@@ -115,4 +115,4 @@ related:
 - [PD.D.084](../../01-domain-contract/01B-distinctions.md#d084-productive-state-vs-characteristic) — Состояние vs. Характеристика
 - [PD.METHOD.006](../../03-methods/PD.METHOD.006-leisure-organization.md) — Организация досуга
 - [PD.FORM.087](PD.FORM.087-creator-role-trajectory.md) — Ролевая траектория (потоковые состояния как маркер продвижения)
-- [PD.FORM.003](PD.FORM.003-learner-maturity.md) — Ступени зрелости ученика
+- [PD.FORM.003](PD.FORM.003-learner-maturity.md) — Ступени ученика

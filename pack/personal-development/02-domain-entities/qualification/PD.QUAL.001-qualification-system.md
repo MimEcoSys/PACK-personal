@@ -124,4 +124,4 @@ related:
 ## 7. Связанные документы
 
 - [PD.FORM.087 Ролевая траектория созидателя](../formalizations/PD.FORM.087-creator-role-trajectory.md)
-- [PD.FORM.003 Ступени зрелости](../formalizations/PD.FORM.003-learner-maturity.md)
+- [PD.FORM.003 Ступени ученика](../formalizations/PD.FORM.003-learner-maturity.md)

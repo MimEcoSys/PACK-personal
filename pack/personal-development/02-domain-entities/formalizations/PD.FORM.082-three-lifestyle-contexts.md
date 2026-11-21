@@ -168,7 +168,7 @@ name_ru: "3 контекста стиля жизни"
 
 - [PD.FORM.081 5 областей](PD.FORM.081-five-development-areas.md) — области ортогональны контекстам (область = «где GAP», контекст = «когда практиковать»)
 - [PD.FORM.002 6 направлений](PD.FORM.002-development-directions.md)
-- [PD.FORM.003 Ступени зрелости](PD.FORM.003-learner-maturity.md)
+- [PD.FORM.003 Ступени ученика](PD.FORM.003-learner-maturity.md)
 - [PD.CAT.001 Каталог мемов](../catalogs/PD.CAT.001-memes-catalog.md) — мемы привязаны к контекстам
 - [PD.CAT.002 Практики досуга](../catalogs/PD.CAT.002-leisure-practices.md) — каталог контекста 3
 - [PD.FORM.042 Компиляция](PD.FORM.042-compilation-as-neural-route-building.md) — механизм перехода знание → мировоззрение

@@ -36,5 +36,5 @@ related:
 ## 5. Связанные документы
 
 - [PD.FORM.001](../formalizations/PD.FORM.001-development-programs.md) — Программы развития
-- [PD.FORM.003](../formalizations/PD.FORM.003-learner-maturity.md) — Зрелость ученика
+- [PD.FORM.003](../formalizations/PD.FORM.003-learner-maturity.md) — Ступени ученика
 - [PD.D.090](../../01-domain-contract/01B-distinctions.md#d090-selfflow-vs-reflash) — Самотёк vs. Перепрошивка

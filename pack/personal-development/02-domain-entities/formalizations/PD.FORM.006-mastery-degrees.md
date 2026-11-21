@@ -68,6 +68,6 @@ related:
 
 ## 4. Связанные документы
 
-- [PD.FORM.003 Ступени зрелости ученика](PD.FORM.003-learner-maturity.md)
+- [PD.FORM.003 Ступени ученика](PD.FORM.003-learner-maturity.md)
 - [PD.FORM.007 Стадии обучения](PD.FORM.007-learning-stages.md)
 - [PD.FORM.015 Использование практик на стадиях мастерства](PD.FORM.015-practice-usage-across-mastery.md)

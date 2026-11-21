@@ -132,7 +132,7 @@ related:
 ## 8. Связанные документы
 
 - [PD.FORM.002 — 6 направлений саморазвития](PD.FORM.002-development-directions.md) — детализация уровня 2
-- [PD.FORM.003 — Ступени зрелости ученика](PD.FORM.003-learner-maturity.md) — ступени, для которых предназначена тройка
+- [PD.FORM.003 — Ступени ученика](PD.FORM.003-learner-maturity.md) — ступени, для которых предназначена тройка
 - [PD.FORM.032 — Условия потока](PD.FORM.032-flow-conditions.md) — поток как результат схождения тройки
 - [PD.FORM.048 — Петля устойчивой продуктивности](PD.FORM.048-sustainable-productivity-loop.md)
 - [PD.CHR.001 — Система характеристик](../characteristics/PD.CHR.001-characteristics-system.md) — полная карта уровня 3

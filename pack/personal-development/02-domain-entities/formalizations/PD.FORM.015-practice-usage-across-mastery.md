@@ -41,5 +41,5 @@ related:
 - [PD.METHOD.003 Systematic Slow Reading](../../03-methods/PD.METHOD.003-systematic-slow-reading.md)
 - [PD.METHOD.004 Thinking in Writing](../../03-methods/PD.METHOD.004-thinking-in-writing.md)
 - [PD.METHOD.005 Thinking by Speaking](../../03-methods/PD.METHOD.005-thinking-by-speaking.md)
-- [PD.FORM.003 Ступени зрелости ученика](PD.FORM.003-learner-maturity.md)
+- [PD.FORM.003 Ступени ученика](PD.FORM.003-learner-maturity.md)
 - [PD.FORM.006 Степени мастерства](PD.FORM.006-mastery-degrees.md)
