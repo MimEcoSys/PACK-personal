@@ -41,6 +41,7 @@ A draft is NOT:
 | Method | Notes |
 |--------|-------|
 | [PD.METHOD.004 Thinking in Writing](../03-methods/PD.METHOD.004-thinking-in-writing.md) | Primary method — drafts emerge from sorted notes through writing |
+| [PD.METHOD.078 Формирование своего понимания до проверки с ИИ](../03-methods/PD.METHOD.078-own-understanding-before-ai.md) | Текст своего понимания, записанный без ИИ |
 
 ---
 
