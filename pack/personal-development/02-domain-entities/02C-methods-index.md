@@ -38,6 +38,9 @@ Methods that determine priorities and resource allocation.
 | [PD.METHOD.009](../03-methods/PD.METHOD.009-planning.md) | Planning | [WP.001](../04-work-products/PD.WP.001-time-budget.md), [WP.014](../04-work-products/PD.WP.014-daily-routine.md), [WP.015](../04-work-products/PD.WP.015-task-list.md) | active | current |
 | [PD.METHOD.018](../03-methods/PD.METHOD.018-lifework-pack-composition.md) | Lifework Pack Composition | 6 Lifework-документов по существующим шаблонам (без отдельных PD.WP-ID) | active | hypothesis |
 | [PD.METHOD.025](../03-methods/PD.METHOD.025-planning-cascade.md) | Learner Planning Cascade | [WP.001](../04-work-products/PD.WP.001-time-budget.md), [WP.020](../04-work-products/PD.WP.020-horizon-documents.md) | active | current |
+| [PD.METHOD.070](../03-methods/PD.METHOD.070-work-product-formulation.md) | Work Product Formulation (Формирование рабочего продукта, каталог LMS.M.036) | [WP.021](../04-work-products/PD.WP.021-work-product-list.md) | draft | hypothesis |
+| [PD.METHOD.071](../03-methods/PD.METHOD.071-work-product-list.md) | Work Product List Keeping (Составление списка рабочих продуктов, каталог LMS.M.037) | [WP.021](../04-work-products/PD.WP.021-work-product-list.md) | draft | hypothesis |
+| [PD.METHOD.072](../03-methods/PD.METHOD.072-work-product-per-task.md) | Work Product per Task (Формирование и учёт рабочего продукта на каждую задачу, каталог LMS.M.010) | [WP.021](../04-work-products/PD.WP.021-work-product-list.md) | draft | hypothesis |
 
 ### Learning Methods
 
@@ -123,6 +126,9 @@ Methods of thinking mastery for the Intellectual role. Applied in the Worker Dev
 | [PD.METHOD.016](../03-methods/PD.METHOD.016-self-diagnostics.md) | Self-Diagnostics | Reflective | [WP.017](../04-work-products/PD.WP.017-learner-diagnostic-map.md) | current |
 | [PD.METHOD.061](../03-methods/PD.METHOD.061-session-three-results-test.md) | Session Three-Results Test | Reflective | [WP.014](../04-work-products/PD.WP.014-daily-routine.md) | hypothesis |
 | [PD.METHOD.069](../03-methods/PD.METHOD.069-style-change.md) | Style Change | Reflective | [WP.002](../04-work-products/PD.WP.002-learner-works.md) | hypothesis |
+| [PD.METHOD.070](../03-methods/PD.METHOD.070-work-product-formulation.md) | Work Product Formulation | Strategic | [WP.021](../04-work-products/PD.WP.021-work-product-list.md) | hypothesis |
+| [PD.METHOD.071](../03-methods/PD.METHOD.071-work-product-list.md) | Work Product List Keeping | Strategic | [WP.021](../04-work-products/PD.WP.021-work-product-list.md) | hypothesis |
+| [PD.METHOD.072](../03-methods/PD.METHOD.072-work-product-per-task.md) | Work Product per Task | Strategic | [WP.021](../04-work-products/PD.WP.021-work-product-list.md) | hypothesis |
 
 ---
 
@@ -146,6 +152,7 @@ Methods of thinking mastery for the Intellectual role. Applied in the Worker Dev
 | [PD.WP.014 Daily Routine](../04-work-products/PD.WP.014-daily-routine.md) | [PD.METHOD.009](../03-methods/PD.METHOD.009-planning.md), [PD.METHOD.061](../03-methods/PD.METHOD.061-session-three-results-test.md) |
 | [PD.WP.015 Task List](../04-work-products/PD.WP.015-task-list.md) | [PD.METHOD.008](../03-methods/PD.METHOD.008-strategizing.md), [PD.METHOD.009](../03-methods/PD.METHOD.009-planning.md) |
 | [PD.WP.016 Selection Criteria](../04-work-products/PD.WP.016-selection-criteria.md) | [PD.METHOD.008](../03-methods/PD.METHOD.008-strategizing.md) |
+| [PD.WP.021 Список рабочих продуктов](../04-work-products/PD.WP.021-work-product-list.md) | [PD.METHOD.070](../03-methods/PD.METHOD.070-work-product-formulation.md), [PD.METHOD.071](../03-methods/PD.METHOD.071-work-product-list.md), [PD.METHOD.072](../03-methods/PD.METHOD.072-work-product-per-task.md) |
 
 ---
 
