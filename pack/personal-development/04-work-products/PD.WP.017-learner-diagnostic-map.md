@@ -6,7 +6,7 @@ summary: "Карта диагностики ученика: структурир
 created: 2026-03-11
 last_updated: 2026-03-11
 related:
-  produced_by: [PD.METHOD.002, PD.METHOD.010]
+  produced_by: [PD.METHOD.002, PD.METHOD.010, PD.METHOD.074]
 ---
 
 # [PD.WP.017] Learner Diagnostic Map

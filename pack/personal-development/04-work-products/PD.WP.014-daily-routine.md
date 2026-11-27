@@ -6,7 +6,7 @@ summary: "Шаблон дня: примерное время подъёма и �
 created: 2026-02-19
 last_updated: 2026-02-19
 related:
-  produced_by: [PD.METHOD.009, PD.METHOD.006]
+  produced_by: [PD.METHOD.009, PD.METHOD.006, PD.METHOD.073]
 ---
 
 # [PD.WP.014] Daily Routine

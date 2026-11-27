@@ -6,7 +6,7 @@ summary: "Неокончательный текст, созданный мышл
 created: 2026-02-11
 last_updated: 2026-02-11
 related:
-  produced_by: [PD.METHOD.004]
+  produced_by: [PD.METHOD.004, PD.METHOD.078]
 ---
 
 # [PD.WP.004] Draft (Заготовка)
