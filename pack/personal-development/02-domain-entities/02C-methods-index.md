@@ -41,6 +41,8 @@ Methods that determine priorities and resource allocation.
 | [PD.METHOD.070](../03-methods/PD.METHOD.070-work-product-formulation.md) | Work Product Formulation (Формирование рабочего продукта, каталог LMS.M.036) | [WP.021](../04-work-products/PD.WP.021-work-product-list.md) | draft | hypothesis |
 | [PD.METHOD.071](../03-methods/PD.METHOD.071-work-product-list.md) | Work Product List Keeping (Составление списка рабочих продуктов, каталог LMS.M.037) | [WP.021](../04-work-products/PD.WP.021-work-product-list.md) | draft | hypothesis |
 | [PD.METHOD.072](../03-methods/PD.METHOD.072-work-product-per-task.md) | Work Product per Task (Формирование и учёт рабочего продукта на каждую задачу, каталог LMS.M.010) | [WP.021](../04-work-products/PD.WP.021-work-product-list.md) | draft | hypothesis |
+| [PD.METHOD.073](../03-methods/PD.METHOD.073-daily-development-slot-protection.md) | Daily Development Slot Protection (Защита ежедневных слотов саморазвития, каталог LMS.M.011) | [WP.014](../04-work-products/PD.WP.014-daily-routine.md) | draft | hypothesis |
+| [PD.METHOD.077](../03-methods/PD.METHOD.077-project-closing.md) | Project Closing (Закрытие проекта, каталог LMS.M.038) | [WP.022](../04-work-products/PD.WP.022-project-closing-document.md) | draft | hypothesis |
 
 ### Learning Methods
 
@@ -51,6 +53,7 @@ Methods that structure the learning process.
 | [PD.METHOD.002](../03-methods/PD.METHOD.002-learner-method.md) | Learner Method | [WP.002](../04-work-products/PD.WP.002-learner-works.md) | active | current |
 | [PD.METHOD.015](../03-methods/PD.METHOD.015-first-development-slot.md) | First Development Slot | [WP.010](../04-work-products/PD.WP.010-fleeting-notes.md) + применённый след в рабочем продукте живого проекта | active | hypothesis |
 | [PD.METHOD.063](../03-methods/PD.METHOD.063-density-of-distinctions-with-throughline-example.md) | Сквозной пример для связи различений | [WP.004](../04-work-products/PD.WP.004-draft.md) | draft | hypothesis |
+| [PD.METHOD.078](../03-methods/PD.METHOD.078-own-understanding-before-ai.md) | Own Understanding Before AI Check (Формирование своего понимания до проверки с ИИ, каталог LMS.M.044) | [WP.004](../04-work-products/PD.WP.004-draft.md) | draft | hypothesis |
 
 ### Reflective Methods
 
@@ -63,6 +66,9 @@ Methods that build self-awareness and feedback loops.
 | [PD.METHOD.016](../03-methods/PD.METHOD.016-self-diagnostics.md) | Self-Diagnostics | [WP.017](../04-work-products/PD.WP.017-learner-diagnostic-map.md) | active | current |
 | [PD.METHOD.061](../03-methods/PD.METHOD.061-session-three-results-test.md) | Session Three-Results Test (Project / Person / Environment) | [WP.014](../04-work-products/PD.WP.014-daily-routine.md) | draft | hypothesis |
 | [PD.METHOD.069](../03-methods/PD.METHOD.069-style-change.md) | Style Change (Изменение стиля, каталог LMS.M.043) | [WP.002](../04-work-products/PD.WP.002-learner-works.md) | draft | hypothesis |
+| [PD.METHOD.074](../03-methods/PD.METHOD.074-self-diagnostics-by-map.md) | Self-Diagnostics by Map (Самодиагностика по карте, каталог LMS.M.031) | [WP.017](../04-work-products/PD.WP.017-learner-diagnostic-map.md) | draft | hypothesis |
+| [PD.METHOD.075](../03-methods/PD.METHOD.075-public-progress-demonstration.md) | Public Progress Demonstration (Публичная демонстрация прогресса, каталог LMS.M.033) | [WP.004](../04-work-products/PD.WP.004-draft.md), [WP.021](../04-work-products/PD.WP.021-work-product-list.md) (входы) | draft | hypothesis |
+| [PD.METHOD.076](../03-methods/PD.METHOD.076-daily-self-praise.md) | Daily Self-Praise for Work Products (Ежедневная самопохвала за рабочие продукты, каталог LMS.M.034) | [WP.021](../04-work-products/PD.WP.021-work-product-list.md) (вход) | draft | hypothesis |
 
 ### Infrastructure Methods
 
@@ -72,6 +78,7 @@ Methods that build conditions and environment for productive activity.
 |----|-------------|----------|--------|------|
 | [PD.METHOD.006](../03-methods/PD.METHOD.006-leisure-organization.md) | Leisure Organization | — | active | current |
 | [PD.METHOD.007](../03-methods/PD.METHOD.007-environment-formation.md) | Environment Formation | — | active | current |
+| [PD.METHOD.079](../03-methods/PD.METHOD.079-digital-exocortex-building.md) | Digital Exocortex Building (Построение цифрового экзокортекса, каталог LMS.M.017) | [WP.002](../04-work-products/PD.WP.002-learner-works.md), [WP.004](../04-work-products/PD.WP.004-draft.md), [WP.010](../04-work-products/PD.WP.010-fleeting-notes.md) (хранит) | draft | hypothesis |
 
 ### Thinking Discipline Methods
 
@@ -129,6 +136,13 @@ Methods of thinking mastery for the Intellectual role. Applied in the Worker Dev
 | [PD.METHOD.070](../03-methods/PD.METHOD.070-work-product-formulation.md) | Work Product Formulation | Strategic | [WP.021](../04-work-products/PD.WP.021-work-product-list.md) | hypothesis |
 | [PD.METHOD.071](../03-methods/PD.METHOD.071-work-product-list.md) | Work Product List Keeping | Strategic | [WP.021](../04-work-products/PD.WP.021-work-product-list.md) | hypothesis |
 | [PD.METHOD.072](../03-methods/PD.METHOD.072-work-product-per-task.md) | Work Product per Task | Strategic | [WP.021](../04-work-products/PD.WP.021-work-product-list.md) | hypothesis |
+| [PD.METHOD.073](../03-methods/PD.METHOD.073-daily-development-slot-protection.md) | Daily Development Slot Protection | Strategic | [WP.014](../04-work-products/PD.WP.014-daily-routine.md) | hypothesis |
+| [PD.METHOD.074](../03-methods/PD.METHOD.074-self-diagnostics-by-map.md) | Self-Diagnostics by Map | Reflective | [WP.017](../04-work-products/PD.WP.017-learner-diagnostic-map.md) | hypothesis |
+| [PD.METHOD.075](../03-methods/PD.METHOD.075-public-progress-demonstration.md) | Public Progress Demonstration | Reflective | [WP.004](../04-work-products/PD.WP.004-draft.md), [WP.021](../04-work-products/PD.WP.021-work-product-list.md) (входы) | hypothesis |
+| [PD.METHOD.076](../03-methods/PD.METHOD.076-daily-self-praise.md) | Daily Self-Praise for Work Products | Reflective | [WP.021](../04-work-products/PD.WP.021-work-product-list.md) (вход) | hypothesis |
+| [PD.METHOD.077](../03-methods/PD.METHOD.077-project-closing.md) | Project Closing | Strategic | [WP.022](../04-work-products/PD.WP.022-project-closing-document.md) | hypothesis |
+| [PD.METHOD.078](../03-methods/PD.METHOD.078-own-understanding-before-ai.md) | Own Understanding Before AI Check | Learning | [WP.004](../04-work-products/PD.WP.004-draft.md) | hypothesis |
+| [PD.METHOD.079](../03-methods/PD.METHOD.079-digital-exocortex-building.md) | Digital Exocortex Building | Infrastructure | [WP.002](../04-work-products/PD.WP.002-learner-works.md), [WP.004](../04-work-products/PD.WP.004-draft.md), [WP.010](../04-work-products/PD.WP.010-fleeting-notes.md) (хранит) | hypothesis |
 
 ---
 
@@ -139,7 +153,7 @@ Methods of thinking mastery for the Intellectual role. Applied in the Worker Dev
 | [PD.WP.001 Time Budget](../04-work-products/PD.WP.001-time-budget.md) | [PD.METHOD.001](../03-methods/PD.METHOD.001-time-accounting.md) |
 | [PD.WP.002 Learner Works](../04-work-products/PD.WP.002-learner-works.md) | [PD.METHOD.002](../03-methods/PD.METHOD.002-learner-method.md) |
 | [PD.WP.003 Educational Notes](../04-work-products/PD.WP.003-educational-notes.md) | [PD.METHOD.003](../03-methods/PD.METHOD.003-systematic-slow-reading.md), [PD.METHOD.005](../03-methods/PD.METHOD.005-thinking-by-speaking.md) |
-| [PD.WP.004 Draft](../04-work-products/PD.WP.004-draft.md) | [PD.METHOD.004](../03-methods/PD.METHOD.004-thinking-in-writing.md) |
+| [PD.WP.004 Draft](../04-work-products/PD.WP.004-draft.md) | [PD.METHOD.004](../03-methods/PD.METHOD.004-thinking-in-writing.md), [PD.METHOD.078](../03-methods/PD.METHOD.078-own-understanding-before-ai.md) |
 | [PD.WP.005 Dissatisfaction List](../04-work-products/PD.WP.005-dissatisfaction-list.md) | [PD.METHOD.008](../03-methods/PD.METHOD.008-strategizing.md) |
 | [PD.WP.006 Strategy](../04-work-products/PD.WP.006-strategy.md) | [PD.METHOD.008](../03-methods/PD.METHOD.008-strategizing.md) |
 | [PD.WP.007 Priority Projects List](../04-work-products/PD.WP.007-priority-projects-list.md) | [PD.METHOD.008](../03-methods/PD.METHOD.008-strategizing.md) |
@@ -149,10 +163,12 @@ Methods of thinking mastery for the Intellectual role. Applied in the Worker Dev
 | [PD.WP.011 Draft List](../04-work-products/PD.WP.011-draft-list.md) | [PD.METHOD.004](../03-methods/PD.METHOD.004-thinking-in-writing.md), [PD.METHOD.008](../03-methods/PD.METHOD.008-strategizing.md) |
 | [PD.WP.012 Communication Errors List](../04-work-products/PD.WP.012-communication-errors-list.md) | [PD.METHOD.005](../03-methods/PD.METHOD.005-thinking-by-speaking.md) |
 | [PD.WP.013 My Leisure Practices](../04-work-products/PD.WP.013-my-leisure-practices.md) | [PD.METHOD.006](../03-methods/PD.METHOD.006-leisure-organization.md) |
-| [PD.WP.014 Daily Routine](../04-work-products/PD.WP.014-daily-routine.md) | [PD.METHOD.009](../03-methods/PD.METHOD.009-planning.md), [PD.METHOD.061](../03-methods/PD.METHOD.061-session-three-results-test.md) |
+| [PD.WP.014 Daily Routine](../04-work-products/PD.WP.014-daily-routine.md) | [PD.METHOD.009](../03-methods/PD.METHOD.009-planning.md), [PD.METHOD.061](../03-methods/PD.METHOD.061-session-three-results-test.md), [PD.METHOD.073](../03-methods/PD.METHOD.073-daily-development-slot-protection.md) |
 | [PD.WP.015 Task List](../04-work-products/PD.WP.015-task-list.md) | [PD.METHOD.008](../03-methods/PD.METHOD.008-strategizing.md), [PD.METHOD.009](../03-methods/PD.METHOD.009-planning.md) |
 | [PD.WP.016 Selection Criteria](../04-work-products/PD.WP.016-selection-criteria.md) | [PD.METHOD.008](../03-methods/PD.METHOD.008-strategizing.md) |
+| [PD.WP.017 Learner Diagnostic Map](../04-work-products/PD.WP.017-learner-diagnostic-map.md) | [PD.METHOD.002](../03-methods/PD.METHOD.002-learner-method.md), [PD.METHOD.010](../03-methods/PD.METHOD.010-daily-reflective-review.md), [PD.METHOD.074](../03-methods/PD.METHOD.074-self-diagnostics-by-map.md) |
 | [PD.WP.021 Список рабочих продуктов](../04-work-products/PD.WP.021-work-product-list.md) | [PD.METHOD.070](../03-methods/PD.METHOD.070-work-product-formulation.md), [PD.METHOD.071](../03-methods/PD.METHOD.071-work-product-list.md), [PD.METHOD.072](../03-methods/PD.METHOD.072-work-product-per-task.md) |
+| [PD.WP.022 Документ о закрытии проекта](../04-work-products/PD.WP.022-project-closing-document.md) | [PD.METHOD.077](../03-methods/PD.METHOD.077-project-closing.md) |
 
 ---
 
