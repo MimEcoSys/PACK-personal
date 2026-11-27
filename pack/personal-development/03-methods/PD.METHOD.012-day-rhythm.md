@@ -4,6 +4,7 @@ name: Day Rhythm (OWC Fractal)
 type: method-card
 status: active
 summary: "Fractal Open-Work-Close pattern at Day and Session scales — structuring entry, work rules, and reflective closure for each day"
+catalog_code: LMS.M.008
 created: 2026-03-14
 last_updated: 2026-07-23
 related:
@@ -13,6 +14,8 @@ related:
 ---
 
 # [PD.METHOD.012] Day Rhythm (OWC Fractal)
+
+> Код в каталоге методов стиля жизни и работы эпохи ИИ: **LMS.M.008** («Открытие и закрытие дня и сессии», тождество: карточка и метод каталога совпадают). Разрез каталога (такт, необходимость, граф зависимостей) хранится в каталоге и графе РП-600, не в этой карточке.
 
 ---
 
