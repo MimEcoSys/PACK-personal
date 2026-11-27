@@ -43,6 +43,7 @@ The Learner Diagnostic Map is NOT:
 |--------|-------|
 | [PD.METHOD.002 Learner Method](../03-methods/PD.METHOD.002-learner-method.md) | Created as part of systematic learning practice; self-diagnosis |
 | [PD.METHOD.010 Daily Reflective Review](../03-methods/PD.METHOD.010-daily-reflective-review.md) | Updated through daily reflection on what constrained progress |
+| [PD.METHOD.074 Самодиагностика по карте](../03-methods/PD.METHOD.074-self-diagnostics-by-map.md) | Ежемесячное обновление карты |
 
 ---
 

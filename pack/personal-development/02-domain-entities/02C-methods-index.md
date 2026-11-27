@@ -79,6 +79,11 @@ Methods that build conditions and environment for productive activity.
 | [PD.METHOD.006](../03-methods/PD.METHOD.006-leisure-organization.md) | Leisure Organization | — | active | current |
 | [PD.METHOD.007](../03-methods/PD.METHOD.007-environment-formation.md) | Environment Formation | — | active | current |
 | [PD.METHOD.079](../03-methods/PD.METHOD.079-digital-exocortex-building.md) | Digital Exocortex Building (Построение цифрового экзокортекса, каталог LMS.M.017) | [WP.002](../04-work-products/PD.WP.002-learner-works.md), [WP.004](../04-work-products/PD.WP.004-draft.md), [WP.010](../04-work-products/PD.WP.010-fleeting-notes.md) (хранит) | draft | hypothesis |
+| [PD.METHOD.080](../03-methods/PD.METHOD.080-sleep-regime-keeping.md) | Sleep Regime Keeping (Удержание режима сна, каталог LMS.M.001) | [WP.014](../04-work-products/PD.WP.014-daily-routine.md) | draft | hypothesis |
+| [PD.METHOD.081](../03-methods/PD.METHOD.081-meal-and-water-regime.md) | Meal and Water Regime Keeping (Соблюдение режима питания и питья, каталог LMS.M.002) | [WP.014](../04-work-products/PD.WP.014-daily-routine.md) | draft | hypothesis |
+| [PD.METHOD.082](../03-methods/PD.METHOD.082-attention-control.md) | Attention Control (Контроль внимания, каталог LMS.M.005) | [WP.023](../04-work-products/PD.WP.023-attention-leaks-list.md) | draft | hypothesis |
+| [PD.METHOD.083](../03-methods/PD.METHOD.083-easy-to-hard-pleasure-replacement.md) | Replacing Easy Pleasures with Hard Ones (Замена «лёгких» удовольствий «сложными», каталог LMS.M.006) | [WP.013](../04-work-products/PD.WP.013-my-leisure-practices.md) | draft | hypothesis |
+| [PD.METHOD.084](../03-methods/PD.METHOD.084-digital-environment-cleanup.md) | Digital Environment Cleanup (Очистка цифровой среды, каталог LMS.M.041) | [WP.023](../04-work-products/PD.WP.023-attention-leaks-list.md) (вход) | draft | hypothesis |
 
 ### Thinking Discipline Methods
 
@@ -143,6 +148,11 @@ Methods of thinking mastery for the Intellectual role. Applied in the Worker Dev
 | [PD.METHOD.077](../03-methods/PD.METHOD.077-project-closing.md) | Project Closing | Strategic | [WP.022](../04-work-products/PD.WP.022-project-closing-document.md) | hypothesis |
 | [PD.METHOD.078](../03-methods/PD.METHOD.078-own-understanding-before-ai.md) | Own Understanding Before AI Check | Learning | [WP.004](../04-work-products/PD.WP.004-draft.md) | hypothesis |
 | [PD.METHOD.079](../03-methods/PD.METHOD.079-digital-exocortex-building.md) | Digital Exocortex Building | Infrastructure | [WP.002](../04-work-products/PD.WP.002-learner-works.md), [WP.004](../04-work-products/PD.WP.004-draft.md), [WP.010](../04-work-products/PD.WP.010-fleeting-notes.md) (хранит) | hypothesis |
+| [PD.METHOD.080](../03-methods/PD.METHOD.080-sleep-regime-keeping.md) | Sleep Regime Keeping | Infrastructure | [WP.014](../04-work-products/PD.WP.014-daily-routine.md) | hypothesis |
+| [PD.METHOD.081](../03-methods/PD.METHOD.081-meal-and-water-regime.md) | Meal and Water Regime Keeping | Infrastructure | [WP.014](../04-work-products/PD.WP.014-daily-routine.md) | hypothesis |
+| [PD.METHOD.082](../03-methods/PD.METHOD.082-attention-control.md) | Attention Control | Infrastructure | [WP.023](../04-work-products/PD.WP.023-attention-leaks-list.md) | hypothesis |
+| [PD.METHOD.083](../03-methods/PD.METHOD.083-easy-to-hard-pleasure-replacement.md) | Replacing Easy Pleasures with Hard Ones | Infrastructure | [WP.013](../04-work-products/PD.WP.013-my-leisure-practices.md) | hypothesis |
+| [PD.METHOD.084](../03-methods/PD.METHOD.084-digital-environment-cleanup.md) | Digital Environment Cleanup | Infrastructure | [WP.023](../04-work-products/PD.WP.023-attention-leaks-list.md) (вход) | hypothesis |
 
 ---
 
@@ -162,13 +172,14 @@ Methods of thinking mastery for the Intellectual role. Applied in the Worker Dev
 | [PD.WP.010 Fleeting Notes](../04-work-products/PD.WP.010-fleeting-notes.md) | [PD.METHOD.003](../03-methods/PD.METHOD.003-systematic-slow-reading.md), [PD.METHOD.004](../03-methods/PD.METHOD.004-thinking-in-writing.md) |
 | [PD.WP.011 Draft List](../04-work-products/PD.WP.011-draft-list.md) | [PD.METHOD.004](../03-methods/PD.METHOD.004-thinking-in-writing.md), [PD.METHOD.008](../03-methods/PD.METHOD.008-strategizing.md) |
 | [PD.WP.012 Communication Errors List](../04-work-products/PD.WP.012-communication-errors-list.md) | [PD.METHOD.005](../03-methods/PD.METHOD.005-thinking-by-speaking.md) |
-| [PD.WP.013 My Leisure Practices](../04-work-products/PD.WP.013-my-leisure-practices.md) | [PD.METHOD.006](../03-methods/PD.METHOD.006-leisure-organization.md) |
-| [PD.WP.014 Daily Routine](../04-work-products/PD.WP.014-daily-routine.md) | [PD.METHOD.009](../03-methods/PD.METHOD.009-planning.md), [PD.METHOD.061](../03-methods/PD.METHOD.061-session-three-results-test.md), [PD.METHOD.073](../03-methods/PD.METHOD.073-daily-development-slot-protection.md) |
+| [PD.WP.013 My Leisure Practices](../04-work-products/PD.WP.013-my-leisure-practices.md) | [PD.METHOD.006](../03-methods/PD.METHOD.006-leisure-organization.md), [PD.METHOD.083](../03-methods/PD.METHOD.083-easy-to-hard-pleasure-replacement.md) |
+| [PD.WP.014 Daily Routine](../04-work-products/PD.WP.014-daily-routine.md) | [PD.METHOD.009](../03-methods/PD.METHOD.009-planning.md), [PD.METHOD.061](../03-methods/PD.METHOD.061-session-three-results-test.md), [PD.METHOD.073](../03-methods/PD.METHOD.073-daily-development-slot-protection.md), [PD.METHOD.080](../03-methods/PD.METHOD.080-sleep-regime-keeping.md), [PD.METHOD.081](../03-methods/PD.METHOD.081-meal-and-water-regime.md) |
 | [PD.WP.015 Task List](../04-work-products/PD.WP.015-task-list.md) | [PD.METHOD.008](../03-methods/PD.METHOD.008-strategizing.md), [PD.METHOD.009](../03-methods/PD.METHOD.009-planning.md) |
 | [PD.WP.016 Selection Criteria](../04-work-products/PD.WP.016-selection-criteria.md) | [PD.METHOD.008](../03-methods/PD.METHOD.008-strategizing.md) |
 | [PD.WP.017 Learner Diagnostic Map](../04-work-products/PD.WP.017-learner-diagnostic-map.md) | [PD.METHOD.002](../03-methods/PD.METHOD.002-learner-method.md), [PD.METHOD.010](../03-methods/PD.METHOD.010-daily-reflective-review.md), [PD.METHOD.074](../03-methods/PD.METHOD.074-self-diagnostics-by-map.md) |
 | [PD.WP.021 Список рабочих продуктов](../04-work-products/PD.WP.021-work-product-list.md) | [PD.METHOD.070](../03-methods/PD.METHOD.070-work-product-formulation.md), [PD.METHOD.071](../03-methods/PD.METHOD.071-work-product-list.md), [PD.METHOD.072](../03-methods/PD.METHOD.072-work-product-per-task.md) |
 | [PD.WP.022 Документ о закрытии проекта](../04-work-products/PD.WP.022-project-closing-document.md) | [PD.METHOD.077](../03-methods/PD.METHOD.077-project-closing.md) |
+| [PD.WP.023 Список утечек внимания](../04-work-products/PD.WP.023-attention-leaks-list.md) | [PD.METHOD.082](../03-methods/PD.METHOD.082-attention-control.md) |
 
 ---
 

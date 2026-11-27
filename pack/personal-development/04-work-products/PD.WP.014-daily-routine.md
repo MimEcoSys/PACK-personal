@@ -6,7 +6,7 @@ summary: "Шаблон дня: примерное время подъёма и �
 created: 2026-02-19
 last_updated: 2026-02-19
 related:
-  produced_by: [PD.METHOD.009, PD.METHOD.006, PD.METHOD.073]
+  produced_by: [PD.METHOD.009, PD.METHOD.006, PD.METHOD.073, PD.METHOD.080, PD.METHOD.081]
 ---
 
 # [PD.WP.014] Daily Routine
@@ -43,6 +43,9 @@ A daily routine is NOT:
 |--------|-------|
 | [PD.METHOD.009 Planning](../03-methods/PD.METHOD.009-planning.md) | Created as part of planning practice |
 | [PD.METHOD.006 Leisure Organization](../03-methods/PD.METHOD.006-leisure-organization.md) | Leisure blocks integrated into the daily template |
+| [PD.METHOD.073 Защита ежедневных слотов саморазвития](../03-methods/PD.METHOD.073-daily-development-slot-protection.md) | Защищённый слот саморазвития в распорядке |
+| [PD.METHOD.080 Удержание режима сна](../03-methods/PD.METHOD.080-sleep-regime-keeping.md) | Время отбоя и подъёма и условия сна |
+| [PD.METHOD.081 Соблюдение режима питания и питья](../03-methods/PD.METHOD.081-meal-and-water-regime.md) | Время приёмов пищи |
 
 ---
 

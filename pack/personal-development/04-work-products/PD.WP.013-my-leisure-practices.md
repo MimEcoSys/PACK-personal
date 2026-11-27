@@ -6,7 +6,7 @@ summary: "Таблица личных практик досуга, органи�
 created: 2026-02-19
 last_updated: 2026-02-19
 related:
-  produced_by: [PD.METHOD.006]
+  produced_by: [PD.METHOD.006, PD.METHOD.083]
 ---
 
 # [PD.WP.013] My Leisure Practices
@@ -41,6 +41,7 @@ A leisure practices table is NOT:
 | Method | Notes |
 |--------|-------|
 | [PD.METHOD.006 Leisure Organization](../03-methods/PD.METHOD.006-leisure-organization.md) | Created and maintained during leisure planning sessions |
+| [PD.METHOD.083 Замена «лёгких» удовольствий «сложными»](../03-methods/PD.METHOD.083-easy-to-hard-pleasure-replacement.md) | Личный список «сложных» удовольствий для замены |
 
 ---
 
